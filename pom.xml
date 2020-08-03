@@ -19,7 +19,7 @@
         <fastjson.version>1.2.59</fastjson.version>
         <guava.version>28.1-jre</guava.version>
         <h2.version>1.4.199</h2.version>
-        <embededRedis.version>0.7.2</embededRedis.version>
+        <embededRedis.version>0.7.3</embededRedis.version>
     </properties>
 
     <dependencies>
